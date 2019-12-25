@@ -9,6 +9,10 @@
 import SwiftUI
 
 struct ContentView: View {
+    
+    let arrayOfName = ["Manna","Munna","Shaon","Lalon","Limon","Rakibul","Shumon","Abid","Harun","Humaun","Liton","Milon"]
+    
+    
     var body: some View {
         Text("Hello World")
     }
